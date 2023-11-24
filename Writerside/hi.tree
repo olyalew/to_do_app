@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Python To-do Application"
+                 start-page="Default-topic.md">
+
+    <toc-element topic="Default-topic.md"/>
+    <toc-element topic="Play-with-semantic-attributes.md"/>
+    <toc-element topic="Final-Demonstration.md"/>
+    <toc-element topic="Разработка-мобильного-приложения-для-создания-задач.md"/>
+    <toc-element topic="Tutorial.md"/>
+    <toc-element topic="How-to.md"/>
+</instance-profile>

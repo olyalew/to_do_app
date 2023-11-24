@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="16813fcf">
+        <description>Created after removal of "pa" from Help Instance</description>
+        <accepts>pa.html</accepts>
+    </rule>
+    <rule id="9eefd8">
+        <description>Created after removal of "App Setup" from Help Instance</description>
+        <accepts>Add-semantic-elements-to-Markdown.html</accepts>
+    </rule>
+    <rule id="136cfd38">
+        <description>Created after removal of "Управление Задачами" from Python To-do Application</description>
+        <accepts>Реализация-пользовательского-интерфейса-и-тестирование-приложения.html</accepts>
+    </rule>
+    <rule id="1fe6b634">
+        <description>Created after removal of "Управление задачами" from Python To-do Application</description>
+        <accepts>Управление-задачами.html</accepts>
+    </rule>
+    <rule id="b2ba35">
+        <description>Created after removal of "Empty XML Topic" from Python To-do Application</description>
+        <accepts>Empty-XML-Topic.html</accepts>
+    </rule>
+</rules>
